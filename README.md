@@ -1,14 +1,14 @@
 ````markdown
 # FourJunctions Selenium E-commerce Test
 
-## ✅ 2. Set Up Virtual Environment & Dependencies
+## ✅ 1. Set Up Virtual Environment & Dependencies
 ```bash
 python3 -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ````
 
-## ✅ 3. Run the Main Script
+## ✅ 2. Run the Main Script
 
 ```bash
 python main.py
@@ -16,7 +16,7 @@ python main.py
 
 ---
 
-## ✅ 4. (Bonus) Run Selenium Grid Test
+## ✅ 3. (Bonus) Run Selenium Grid Test
 
 Start the Selenium Grid using Docker:
 
