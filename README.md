@@ -1,7 +1,8 @@
-````markdown
+
 # FourJunctions Selenium E-commerce Test
 
 ## ✅ 1. Set Up Virtual Environment & Dependencies
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
