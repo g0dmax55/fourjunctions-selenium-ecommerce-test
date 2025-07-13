@@ -1,0 +1,13 @@
+🔎 Starting crawl and test...
+✅ Add to Cart button present.
+✅ Product technical spec section present.
+✅ Image gallery present.
+✅ Valid search input test passed.
+✅ Invalid search input test executed.
+✅ Tested responsiveness at 1920x1080
+✅ Tested responsiveness at 768x1024
+✅ Tested responsiveness at 375x667
+✅ Testing completed.
+✅ Search test passed on firefox
+✅ Search test passed on chrome
+✅ Selenium Grid parallel test completed.
