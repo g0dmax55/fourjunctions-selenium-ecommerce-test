@@ -21,7 +21,7 @@ python main.py
 Start the Selenium Grid using Docker:
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 Then run the parallel cross-browser test:
