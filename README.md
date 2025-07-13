@@ -1,7 +1,8 @@
 ```markdown
 # FourJunctions Selenium Ecommerce Test
 
-This project automates web scraping and testing for an e-commerce website (Amazon India) using Selenium WebDriver. It crawls product listings, performs functional and responsive UI tests, and includes a bonus Selenium Grid test for parallel cross-browser execution.
+This project automates web scraping and testing for an e-commerce website (Amazon India) using Selenium WebDriver. 
+It crawls product listings, performs functional and responsive UI tests, and includes a bonus Selenium Grid test for parallel cross-browser execution.
 
 ## Prerequisites
 
